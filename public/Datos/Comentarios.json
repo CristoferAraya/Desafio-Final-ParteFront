@@ -1,0 +1,38 @@
+[
+    {
+      "autor": "Gustavo",
+      "texto": "Exelente servicio 100% recomendable",
+      "fecha": "13-04-2023",
+      "nota": 5
+    },
+    {
+      "autor": "Jack",
+      "texto": "Muy buen servicio,muy profesional",
+      "fecha": "13-04-2023",
+      "nota": 5
+    },
+    {
+      "autor": "Marta",
+      "texto": "Exelemte servicio,muy recomendable,es un gran lugar.",
+      "fecha": "13-04-2023",
+      "nota": 5
+    },
+    {
+      "autor": "Aurelio",
+      "texto": "Todo muy bien,grandes profesionales,se lo recomiendo a todos.",
+      "fecha": "13-04-2023",
+      "nota": 5
+    },
+    {
+      "autor": "Spancer",
+      "texto": "Mas que conforme con el servicio,muy buena atencion.",
+      "fecha": "13-04-2023",
+      "nota": 5
+    },
+    {
+      "autor": "Marcelo",
+      "texto": "Buen lugar,aunque demoraron un rato en atenderme,pero por por lo demas nada de que quejarme.",
+      "fecha": "13-04-2023",
+      "nota": 4
+    }
+  ]
