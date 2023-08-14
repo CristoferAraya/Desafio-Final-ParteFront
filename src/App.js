@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Barra from './components/Navigation';
 import FavoritesList from './components/FavoritesListView';
+import DetallePeluqueria from './components/DetallePeluqueria';
 
 
 
@@ -27,9 +28,10 @@ const App = () => {
          
         <Route path= '/favoritos'
                element={<FavoritesList/>}/>
-       <Route path= '/mis peluqierioas'
+       <Route path= '/mis-peluqierioas'
                element={<mis-peluquerias/>}/>
-    
+       <Route path= '/detalle-peluqueria/:id'
+               element={<DetallePeluqueria/>}/>
      
 
 
